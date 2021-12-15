@@ -1,1 +1,0 @@
-# ar-qr-testjdk50o
